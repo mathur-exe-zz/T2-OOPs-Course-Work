@@ -1,0 +1,13 @@
+Enter the name of student and branch: 
+Enter ece division of student: 
+
+Enter the name of student and branch: 
+Enter branch specialization: 
+
+Name: GaurangMathur
+Branch: ECE
+Division of ece branch: 3
+
+Name: ABCXYZ
+Branch: CSE
+Field of specialization in cse:MLAI 
