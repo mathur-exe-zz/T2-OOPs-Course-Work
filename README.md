@@ -30,8 +30,8 @@
 5. Interface, 
 6. Abstract Classes & Methods
 7. Multithreading 
-    > Extending Thread class
-    > Implementing Runnable
+    - Extending Thread class
+    - Implementing Runnable
 
 ## Concepts Learnt in SQL
 1. Data Modelling 
