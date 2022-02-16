@@ -6,13 +6,13 @@
 3. SQL
 
 ## Softwares used
-1. Sublime Text (C++)
+1. Sublime Text (C++) 
 2. VS Code (Java)
 3. MySQL Workbench (MySQL)
 
 ## Project Based Learning (PBL)
-1. 5 stars in C++ (HackerRank)
-2. 10 LeetCode Problems 
+1. 5 stars in C++ (HackerRank) [Gaurang Mathur - HackerRank](https://www.hackerrank.com/gmathur1993)
+2. 10 LeetCode Problems [LeetCode](https://leetcode.com/gmathur1993/)
 
 ## Concepts Learnt in C++ 
 
