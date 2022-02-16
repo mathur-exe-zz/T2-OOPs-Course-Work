@@ -19,7 +19,7 @@
 1. Function Arguments, Friend Function, Function Overloading
 2. Operator Overloading
 3. Constructor & Destructor in base & derived classes
-4. Inheritance (Single, Multilevel, hei)
+4. Inheritance (Single, Multilevel, hierarchical)
 
 ## Concepts Learnt in C++
 
@@ -27,7 +27,7 @@
 2. Method Overloading & Overridding
 3. Static & Super keyword 
 4. Inheritance
-5. Interface, 
+5. Interface 
 6. Abstract Classes & Methods
 7. Multithreading 
     - Extending Thread class
